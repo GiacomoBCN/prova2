@@ -6,3 +6,5 @@ questo `un ulteriore cambio del file mastergit
 queste modifiche sono state eseguite in "questaEunaBranch"
 
 non capisco bene, passiamo questo in branch 
+
+ADESSO DEVE ESSERE TUTTO UGUALE. PRIMA SI MODIFICA LA branch POI SI FA IL MERGE CON MASTER
